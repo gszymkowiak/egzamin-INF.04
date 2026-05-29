@@ -1,4 +1,5 @@
-# Egzamin INF.04 – Projektowanie, programowanie i testowanie aplikacji
+# Egzamin INF.04
+# Projektowanie, programowanie i testowanie aplikacji
 
 Repozytorium zawiera rozwiązania zadań praktycznych przygotowujących do egzaminu zawodowego **INF.04 – Projektowanie, programowanie i testowanie aplikacji**.
 
