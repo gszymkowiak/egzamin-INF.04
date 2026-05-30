@@ -42,7 +42,7 @@ Wymagane są dwa konstruktory:
 
 ### Część 2 – aplikacja mobilna
 
-Należy wykonać aplikację mobilną wykorzystującą dostarczone grafiki kości (kosc0.png – kosc6.png). Program ma realizować mechanikę rzutu kością i prezentować wynik użytkownikowi poprzez interfejs graficzny.
+Należy wykonać aplikację mobilną wykorzystującą dostarczone grafiki kości (kosc0.png – kosc6.png). Program ma realizować logikę rzutu kością i prezentować wynik użytkownikowi poprzez interfejs graficzny.
 
 Wymagane elementy interfejsu:
 
