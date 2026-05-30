@@ -4,6 +4,8 @@ Repozytorium zawiera rozwiązania zadań praktycznych przygotowujących do egzam
 
 ## Zadanie 1 - INF.04.2025.06.01
 
+Zadanie polega na wykonaniu dwóch aplikacji: konsolowej i desktopowej, a następnie przygotowaniu dokumentacji technicznej. Tematem zadania jest symulacja losowań liczb podobnych do gry liczbowej typu Lotto.
+
 - [Egzamin praktyczny](https://material.edu.tychy.pl/data/egzaminy/2025/czerwiec-zadanie-1/Egzamin-inf_04_2025_06_01_SG.pdf)
 - [Rozwiązanie](https://material.edu.tychy.pl/data/egzaminy/2025/czerwiec-zadanie-1/Realizacja-inf_04_2025_06_01_SG.zip)
 
