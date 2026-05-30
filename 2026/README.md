@@ -68,6 +68,40 @@ Zadanie skupia się na stworzeniu projektu testów sprawdzających poprawność 
 - zliczanie liczby instancji klasy
 - poprawne ustawianie pola dostępności
 
+## ZADANIE 2 - INF.04.2026.01.02
+
+Zadanie polega na wykonaniu dwóch aplikacji (konsolowej i mobilnej), przeprowadzeniu testów oraz przygotowaniu dokumentacji.
+
+- [Plik do zadania](https://material.edu.tychy.pl/data/egzaminy/2026/styczen-zadanie-2/zad2.7z)
+
+---
+
+### Część 1 – aplikacja konsolowa
+
+Należy stworzyć aplikację konsolową realizującą quiz z wykorzystaniem dziedziczenia i klas abstrakcyjnych.
+
+**Klasa** Pytanie
+
+Klasa abstrakcyjna (nie można tworzyć jej obiektów), zawierająca:
+
+Pola chronione:
+
+- treść pytania
+- nazwa pliku ze zdjęciem
+- informacja logiczna określająca poprawność odpowiedzi
+
+**Konstruktor** (2 argumenty):
+
+- treść pytania
+- nazwa pliku graficznego
+
+**Konstruktor**:
+
+- przypisuje wartości pól
+- ustawia poprawność odpowiedzi na false
+
+**Metoda abstrakcyjna**: bool sprawdzOdpowiedz(char odpowiedz), przyjmująca odpowiedzi: A, B lub C.
+
 ## Licencja
 
 Projekt udostępniony wyłącznie w celach edukacyjnych
