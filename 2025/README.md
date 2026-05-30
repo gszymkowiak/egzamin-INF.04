@@ -2,9 +2,9 @@
 
 Repozytorium zawiera rozwiązania zadań praktycznych przygotowujących do egzaminu zawodowego **INF.04 – Projektowanie, programowanie i testowanie aplikacji**.
 
-## Czerwiec
+## Czerwiec - INF.04.2025.06.01
 
-- [Egzamin-inf.04.2025.06.01](https://material.edu.tychy.pl/data/egzaminy/2025/czerwiec-zadanie-1/Egzamin-inf_04_2025_06_01_SG.pdf)
+- [Egzamin](https://material.edu.tychy.pl/data/egzaminy/2025/czerwiec-zadanie-1/Egzamin-inf_04_2025_06_01_SG.pdf)
 - [Rozwiązanie](https://material.edu.tychy.pl/data/egzaminy/2025/czerwiec-zadanie-1/Realizacja-inf_04_2025_06_01_SG.zip)
 
 ## Licencja
