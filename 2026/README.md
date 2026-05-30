@@ -59,7 +59,7 @@ Dodatkowo należy również:
 
 ### Część 3 – testy jednostkowe
 
-Zadanie polega na stworzeniu projektu testów sprawdzających poprawność działania klasy Kosc. Testy mają weryfikować m.in.:
+Zadanie skupia się na stworzeniu projektu testów sprawdzających poprawność działania klasy Kosc. Testy mają weryfikować m.in.:
 
 - poprawne działanie konstruktora z prawidłową wartością
 - reakcję na nieprawidłowe wartości
