@@ -9,6 +9,8 @@ Zadanie polega na wykonaniu dwóch aplikacji: konsolowej i desktopowej, a nastę
 - [Egzamin praktyczny](https://material.edu.tychy.pl/data/egzaminy/2025/czerwiec-zadanie-1/Egzamin-inf_04_2025_06_01_SG.pdf)
 - [Rozwiązanie](https://material.edu.tychy.pl/data/egzaminy/2025/czerwiec-zadanie-1/Realizacja-inf_04_2025_06_01_SG.zip)
 
+---
+
 ### Część 1 – aplikacja konsolowa
 
 Należy napisać program, który:
