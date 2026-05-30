@@ -56,8 +56,6 @@ Należało również:
 - wykonać zrzuty ekranu wszystkich interakcji
 - spakować projekt mobilny do folderu mobilna
 
-Dodatkowo należało zaimplementować metody realizujące logikę kości, wyświetlić wyniki działania programu i przygotować zrzuty ekranu z działania aplikacji konsolowe
-
 ### Część 3 – testy jednostkowe
 
 Należało utworzyć projekt testów sprawdzających poprawność działania klasy Kosc. Testy powinny weryfikować m.in.:
@@ -68,7 +66,6 @@ Należało utworzyć projekt testów sprawdzających poprawność działania kla
 - poprawne ustawianie identyfikatora obrazka
 - zliczanie liczby instancji klasy
 - poprawne ustawianie pola dostępności
-
 
 ## Licencja
 
