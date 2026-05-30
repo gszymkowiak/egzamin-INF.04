@@ -5,43 +5,69 @@ Repozytorium zawiera rozwiązania zadań praktycznych przygotowujących do egzam
 ---
 ## ZADANIE 1 - INF.04.2026.01.01
 
-Zadanie polega na wykonaniu dwóch aplikacji: konsolowej i desktopowej, a następnie przygotowaniu dokumentacji technicznej. Tematem zadania jest symulacja losowań liczb podobnych do gry liczbowej typu Lotto.
-Egzamin-inf_04_2026_01_01_SG
+Zadanie polegało na wykonaniu aplikacji konsolowej oraz aplikacji mobilnej zgodnie z wymaganiami podanymi w arkuszu egzaminacyjnym.
+
 - [Rozwiązanie egzaminu](https://material.edu.tychy.pl/data/egzaminy/2026/styczen-zadanie-1/Realizacja-inf_04_2026_01_01_SG.zip)
 
 ---
 
 ### Część 1 – aplikacja konsolowa
 
-Należy napisać program, który:
+Należało zaprogramować klasę Kosc, która reprezentuje pojedynczą kostkę do gry. Klasa miała zawierać:
 
-- realizuje losowanie zestawu 6 różnych liczb z zakresu 1–49
-- umożliwia wykonanie jednego lub wielu losowań
-- zlicza, ile razy każda liczba została wylosowana
-- wyświetla wyniki losowań oraz statystyki wystąpień liczb
-- działa poprawnie w trybie konsolowym
+- statyczne pole przechowujące liczbę utworzonych obiektów klasy,
+- kolekcję nazw plików graficznych:
+- kosc0.png do kosc6.png
+- liczbę oczek wyrzuconą na kości
+- identyfikator odpowiadającego obrazka
+- informację logiczną określającą dostępność kości
 
-### Część 2 – aplikacja desktopowa
+Wymagane były dwa konstruktory:
 
-Należy przygotować wersję okienkową programu, która:
+- Konstruktor jednoargumentowy (przyjmował liczbę oczek):
 
-- posiada interfejs graficzny
-- umożliwia przeprowadzanie losowań
-- prezentuje wyniki użytkownikowi w oknie aplikacji
-- zawiera przynajmniej jedną kontrolkę GUI
-- uruchamia się poprawnie w środowisku desktopowym
+-- dla wartości 1–6 ustawiał odpowiednie pola
+-- dla niepoprawnej wartości ustawiał 0
+-- oznaczał kość jako dostępną
+-- zwiększał licznik instancji klasy
 
-### Część 3 – dokumentacja
+- Konstruktor bezargumentowy miał:
 
-Do rozwiązania trzeba dołączyć dokumentację zawierającą:
+-- losować liczbę od 1 do 6
+-- przypisywać ją jako wynik rzutu
+-- ustawiać odpowiedni identyfikator obrazka
+-- oznaczać kość jako dostępną
+-- zwiększać licznik instancji
 
-- komentarz do wybranej funkcji lub metody zgodny z podanym wzorem
-- opis działania funkcji
-- opis argumentów i wartości zwracanej
-- numer zdającego w komentarzu
-- zrzuty ekranu z uruchomienia aplikacji konsolowej i desktopowej
-- informacje o użytym systemie operacyjnym, językach programowania i środowiskach programistycznych
-- spakowane projekty wraz z plikami źródłowymi i wykonywalnymi
+### Część 2 – aplikacja mobilna
+
+Należało wykonać aplikację mobilną wykorzystującą dostarczone grafiki kości (kosc0.png–kosc6.png). Aplikacja miała realizować mechanikę rzutu kością i prezentować wynik użytkownikowi poprzez interfejs graficzny.
+
+Typowe elementy interfejsu obejmowały:
+
+- obraz przedstawiający aktualną kość
+- przycisk wykonania rzutu
+- pola lub etykiety prezentujące wyniki
+- wykorzystanie dostarczonych plików graficznych
+
+Należało również:
+
+- uruchomić aplikację na emulatorze
+- wykonać zrzuty ekranu wszystkich interakcji
+- spakować projekt mobilny do folderu mobilna
+
+Dodatkowo należało zaimplementować metody realizujące logikę kości, wyświetlić wyniki działania programu i przygotować zrzuty ekranu z działania aplikacji konsolowe
+
+### Część 3 – testy jednostkowe
+
+Należało utworzyć projekt testów sprawdzających poprawność działania klasy Kosc. Testy powinny weryfikować m.in.:
+
+- vpoprawne działanie konstruktora z prawidłową wartością
+- reakcję na nieprawidłowe wartości
+- poprawne losowanie wartości 1–6
+- poprawne ustawianie identyfikatora obrazka
+- zliczanie liczby instancji klasy
+- poprawne ustawianie pola dostępności
 
 
 ## Licencja
