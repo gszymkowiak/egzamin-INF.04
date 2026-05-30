@@ -101,7 +101,9 @@ Pola chronione:
 - przypisuje wartości pól
 - ustawia poprawność odpowiedzi na false
 
-**Metoda abstrakcyjna**: przyjmuje odpowiedzi: A, B lub C.
+**Metoda abstrakcyjna**:
+
+- przyjmuje odpowiedzi: A, B lub C
 
 ## Licencja
 
