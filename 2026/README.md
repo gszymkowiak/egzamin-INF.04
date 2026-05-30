@@ -26,18 +26,18 @@ Wymagane były dwa konstruktory:
 
 - Konstruktor jednoargumentowy (przyjmował liczbę oczek):
 
--- dla wartości 1–6 ustawiał odpowiednie pola
--- dla niepoprawnej wartości ustawiał 0
--- oznaczał kość jako dostępną
--- zwiększał licznik instancji klasy
+  - dla wartości 1–6 ustawiał odpowiednie pola
+  - dla niepoprawnej wartości ustawiał 0
+  - oznaczał kość jako dostępną
+  - zwiększał licznik instancji klasy
 
 - Konstruktor bezargumentowy miał:
 
--- losować liczbę od 1 do 6
--- przypisywać ją jako wynik rzutu
--- ustawiać odpowiedni identyfikator obrazka
--- oznaczać kość jako dostępną
--- zwiększać licznik instancji
+  - losować liczbę od 1 do 6
+  - przypisywać ją jako wynik rzutu
+  - ustawiać odpowiedni identyfikator obrazka
+  - oznaczać kość jako dostępną
+  - zwiększać licznik instancji
 
 ### Część 2 – aplikacja mobilna
 
