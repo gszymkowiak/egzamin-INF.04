@@ -4,7 +4,7 @@ Repozytorium zawiera rozwiązania zadań praktycznych przygotowujących do egzam
 
 ## Czerwiec
 
-- [Egzamin-inf_04_2025_06_01_SG](https://szymkowiak.tychy.pl/data/egzaminy/2025/czerwiec-zadanie-1/Egzamin-inf_04_2025_06_01_SG.pdf)
+- [Egzamin-inf_04_2025_06_01_SG](https://material.edu.tychy.pl/data/egzaminy/2025/czerwiec-zadanie-1/Egzamin-inf_04_2025_06_01_SG.pdf)
 
 ## Licencja
 
