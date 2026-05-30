@@ -8,6 +8,7 @@ Repozytorium zawiera rozwiązania zadań praktycznych przygotowujących do egzam
 Zadanie polegało na wykonaniu aplikacji konsolowej oraz aplikacji mobilnej zgodnie z wymaganiami podanymi w arkuszu egzaminacyjnym.
 
 - [Rozwiązanie egzaminu](https://material.edu.tychy.pl/data/egzaminy/2026/styczen-zadanie-1/Realizacja-inf_04_2026_01_01_SG.zip)
+- [Plik do zadania](https://material.edu.tychy.pl/data/egzaminy/2026/styczen-zadanie-1/zad1.7z)
 
 ---
 
