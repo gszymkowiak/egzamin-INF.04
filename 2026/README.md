@@ -179,7 +179,7 @@ Pytania należy przechowywać w kolekcji (lista/tablica). Po kliknięciu **DALEJ
 ### Część 3 – testy i dokumentacja
 
 **Test 1 - klasa abstrakcyjna**
-- należy spróbować utworzyć obiekt klasy Pytanie. Powinien pojawić się błąd kompilacji (bo klasa jest abstrakcyjna). Wykonanie zrzutu ekranu błędu oraz zakomentowanie kodu.
+- należy spróbować utworzyć obiekt klasy Pytanie. Powinien pojawić się błąd kompilacji (klasa jest abstrakcyjna). Wykonanie zrzutu ekranu błędu oraz zakomentowanie kodu.
 
 **Test 2 - sprawdzenie działania**
 
