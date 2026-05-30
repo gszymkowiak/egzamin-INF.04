@@ -5,7 +5,7 @@ Repozytorium zawiera rozwiązania zadań praktycznych egzaminu zawodowego **INF.
 ---
 ## ZADANIE 1 - INF.04.2026.01.01
 
-Zadanie polegało na wykonaniu aplikacji konsolowej oraz aplikacji mobilnej zgodnie z wymaganiami podanymi w arkuszu egzaminacyjnym.
+Zadanie polega na wykonaniu aplikacji konsolowej (klasa Kosc, która reprezentuje pojedynczą kostkę do gry) oraz aplikacji mobilnej zgodnie z wymaganiami podanymi w arkuszu egzaminacyjnym.
 
 - [Rozwiązanie egzaminu](https://material.edu.tychy.pl/data/egzaminy/2026/styczen-zadanie-1/Realizacja-inf_04_2026_01_01_SG.zip)
 - [Plik do zadania](https://material.edu.tychy.pl/data/egzaminy/2026/styczen-zadanie-1/zad1.7z)
