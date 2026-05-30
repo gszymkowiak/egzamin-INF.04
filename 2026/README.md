@@ -7,7 +7,7 @@ Repozytorium zawiera rozwiązania zadań praktycznych przygotowujących do egzam
 
 Zadanie polega na wykonaniu dwóch aplikacji: konsolowej i desktopowej, a następnie przygotowaniu dokumentacji technicznej. Tematem zadania jest symulacja losowań liczb podobnych do gry liczbowej typu Lotto.
 Egzamin-inf_04_2026_01_01_SG
-- [Rozwiązanie egzaminu](https://material.edu.tychy.pl/data/egzaminy/2026/styczen-zadanie-1/Realizacja-inf_04_2026_01_01.zip)
+- [Rozwiązanie egzaminu](https://material.edu.tychy.pl/data/egzaminy/2026/styczen-zadanie-1/Realizacja-inf_04_2026_01_01_SG.zip)
 
 ---
 
