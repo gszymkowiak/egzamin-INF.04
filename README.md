@@ -30,9 +30,6 @@ W repozytorium można znaleźć rozwiązania obejmujące m.in.:
 /
 ├── 2026/
 ├── 2025/
-├── 2024/
-├── 2023/
-├── 2022/
 └── README.md
 ```
 
