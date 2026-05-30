@@ -62,7 +62,7 @@ Dodatkowo należało zaimplementować metody realizujące logikę kości, wyświ
 
 Należało utworzyć projekt testów sprawdzających poprawność działania klasy Kosc. Testy powinny weryfikować m.in.:
 
-- vpoprawne działanie konstruktora z prawidłową wartością
+- poprawne działanie konstruktora z prawidłową wartością
 - reakcję na nieprawidłowe wartości
 - poprawne losowanie wartości 1–6
 - poprawne ustawianie identyfikatora obrazka
@@ -72,4 +72,4 @@ Należało utworzyć projekt testów sprawdzających poprawność działania kla
 
 ## Licencja
 
-Projekt udostępniony wyłącznie w celach edukacyjnych.
+Projekt udostępniony wyłącznie w celach edukacyjnych
