@@ -44,14 +44,14 @@ Wymagane są dwa konstruktory:
 
 Należy wykonać aplikację mobilną wykorzystującą dostarczone grafiki kości (kosc0.png–kosc6.png). Program ma realizować mechanikę rzutu kością i prezentować wynik użytkownikowi poprzez interfejs graficzny.
 
-Typowe elementy interfejsu obejmowały:
+Wymagane elementy interfejsu:
 
 - obraz przedstawiający aktualną kość
 - przycisk wykonania rzutu
 - pola lub etykiety prezentujące wyniki
 - wykorzystanie dostarczonych plików graficznych
 
-Należało również:
+Dodatkowo również:
 
 - uruchomić aplikację na emulatorze
 - wykonać zrzuty ekranu wszystkich interakcji
