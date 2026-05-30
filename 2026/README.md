@@ -51,7 +51,7 @@ Wymagane elementy interfejsu:
 - pola lub etykiety prezentujące wyniki
 - wykorzystanie dostarczonych plików graficznych
 
-Dodatkowo również:
+Dodatkowo należy również:
 
 - uruchomić aplikację na emulatorze
 - wykonać zrzuty ekranu wszystkich interakcji
@@ -59,7 +59,7 @@ Dodatkowo również:
 
 ### Część 3 – testy jednostkowe
 
-Należało utworzyć projekt testów sprawdzających poprawność działania klasy Kosc. Testy powinny weryfikować m.in.:
+Zadanie polega na stworzeniu projektu testów sprawdzających poprawność działania klasy Kosc. Testy mają weryfikować m.in.:
 
 - poprawne działanie konstruktora z prawidłową wartością
 - reakcję na nieprawidłowe wartości
