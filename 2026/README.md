@@ -14,7 +14,7 @@ Zadanie polega na wykonaniu **aplikacji konsolowej** (klasa Kosc, która repreze
 
 ### Część 1 – aplikacja konsolowa
 
-Należało zaprogramować klasę Kosc, która reprezentuje pojedynczą kostkę do gry. Klasa miała zawierać:
+W zadaniu wymagane jest stworzenie klasy Kosc, która reprezentuje pojedynczą kostkę do gry. Klasa mia zawierać:
 
 - statyczne pole przechowujące liczbę utworzonych obiektów klasy
 - kolekcję nazw plików graficznych:
