@@ -2,6 +2,7 @@
 
 Repozytorium zawiera rozwiązania zadań praktycznych przygotowujących do egzaminu zawodowego **INF.04 – Projektowanie, programowanie i testowanie aplikacji**.
 
+---
 ## ZADANIE 1 - INF.04.2025.06.01
 
 Zadanie polega na wykonaniu dwóch aplikacji: konsolowej i desktopowej, a następnie przygotowaniu dokumentacji technicznej. Tematem zadania jest symulacja losowań liczb podobnych do gry liczbowej typu Lotto.
@@ -43,12 +44,15 @@ Do rozwiązania trzeba dołączyć dokumentację zawierającą:
 - informacje o użytym systemie operacyjnym, językach programowania i środowiskach programistycznych
 - spakowane projekty wraz z plikami źródłowymi i wykonywalnymi
 
+---
 ## ZADANIE 2 - INF.04.2025.06.02
 
 Zadanie koncentruje się na implementacji szyfru Cezara, testowaniu funkcji oraz przygotowaniu dwóch aplikacji: konsolowej i desktopowej.
 
 - [Egzamin praktyczny](https://material.edu.tychy.pl/data/egzaminy/2025/czerwiec-zadanie-2/Egzamin-inf_04_2025_06_02_SG.pdf)
 - [Rozwiązanie](https://material.edu.tychy.pl/data/egzaminy/2025/czerwiec-zadanie-2/Realizacja-inf_04_2025_06_02_SG.zip)
+
+---
 
 ### Część 1 – aplikacja konsolowa
 
