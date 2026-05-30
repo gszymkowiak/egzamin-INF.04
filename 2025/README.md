@@ -1,4 +1,4 @@
-# Egzaminy INF.04 - czerwiec 2025
+# CZERWIEC 2025
 
 Repozytorium zawiera rozwiązania zadań praktycznych przygotowujących do egzaminu zawodowego **INF.04 – Projektowanie, programowanie i testowanie aplikacji**.
 
