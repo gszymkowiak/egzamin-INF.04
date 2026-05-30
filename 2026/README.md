@@ -23,7 +23,7 @@ Realizacja zadania wymaga stworzenia klasy Kosc, która reprezentuje pojedynczą
   - identyfikator odpowiadającego obrazka
   - informację logiczną określającą dostępność kości
 
-Wymagane były dwa konstruktory:
+Wymagane są dwa konstruktory:
 
 - Konstruktor jednoargumentowy (przyjmował liczbę oczek):
 
