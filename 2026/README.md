@@ -68,6 +68,7 @@ Zadanie skupia się na stworzeniu projektu testów sprawdzających poprawność 
 - zliczanie liczby instancji klasy
 - poprawne ustawianie pola dostępności
 
+---
 ## ZADANIE 2 - INF.04.2026.01.02
 
 Zadanie polega na wykonaniu dwóch aplikacji (konsolowej i mobilnej), przeprowadzeniu testów oraz przygotowaniu dokumentacji.
