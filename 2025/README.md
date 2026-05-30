@@ -41,10 +41,55 @@ Do rozwiązania trzeba dołączyć dokumentację zawierającą:
 - informacje o użytym systemie operacyjnym, językach programowania i środowiskach programistycznych
 - spakowane projekty wraz z plikami źródłowymi i wykonywalnymi
 
-## Zadanie 2 - INF.04.2025.06.02
+## ZADANIE 2 - INF.04.2025.06.02
+
+Zadanie koncentruje się na implementacji szyfru Cezara, testowaniu funkcji oraz przygotowaniu dwóch aplikacji: konsolowej i desktopowej.
 
 - [Egzamin praktyczny](https://material.edu.tychy.pl/data/egzaminy/2025/czerwiec-zadanie-2/Egzamin-inf_04_2025_06_02_SG.pdf)
 - [Rozwiązanie](https://material.edu.tychy.pl/data/egzaminy/2025/czerwiec-zadanie-2/Realizacja-inf_04_2025_06_02_SG.zip)
+
+### Część 1 – aplikacja konsolowa
+
+Należy stworzyć program realizujący szyfrowanie i odszyfrowywanie tekstu metodą Cezara.
+
+Program powinien:
+
+- pobierać od użytkownika tekst
+- pobierać wartość przesunięcia (klucz szyfru)
+- szyfrować tekst poprzez przesunięcie znaków alfabetu o podaną liczbę pozycji
+- obsługiwać poprawnie przejście poza koniec alfabetu (zawijanie)
+- umożliwiać odszyfrowanie wcześniej zaszyfrowanego tekstu
+- komunikować się z użytkownikiem za pomocą czytelnych komunikatów
+
+W rozwiązaniu oceniane są między innymi:
+
+- poprawna implementacja algorytmu szyfru Cezara
+- wykorzystanie metod/funkcji o znaczących nazwach
+- poprawne typy danych
+- czytelność i formatowanie kodu
+- możliwość uruchomienia programu i uzyskania poprawnych wyników
+
+### Część 2 – testy jednostkowe
+
+Jednym z istotnych elementów zadania jest przygotowanie testów sprawdzających poprawność działania funkcji szyfrujących.
+
+Testy powinny weryfikować m.in.:
+
+- szyfrowanie pojedynczych znaków
+- szyfrowanie całych wyrazów
+- poprawność działania dla różnych wartości przesunięcia
+- poprawność odszyfrowania tekstu
+- przypadki graniczne związane z końcem alfabetu
+
+### Część 3 – aplikacja desktopowa
+
+Druga aplikacja ma posiadać interfejs graficzny umożliwiający:
+
+- wpisanie tekstu do zaszyfrowania
+- podanie klucza
+- uruchomienie szyfrowania przyciskiem
+- prezentację wyniku w oknie programu
+- zapisanie wyniku do pliku tekstowego
 
 ## Licencja
 
