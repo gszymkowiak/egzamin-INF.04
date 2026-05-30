@@ -151,8 +151,7 @@ W trakcie pracy trzeba wykonać minimum 2 commity:
 Elementy początkowe:
 
 - obraz zad1.jpg,
-- pytanie:
-  - Które to schronisko?
+- pytanie: **Które to schronisko?**
 - trzy odpowiedzi:
   - Na Rysiance
   - Na Wielkiej Raczy
