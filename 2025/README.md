@@ -2,7 +2,7 @@
 
 Repozytorium zawiera rozwiązania zadań praktycznych przygotowujących do egzaminu zawodowego **INF.04 – Projektowanie, programowanie i testowanie aplikacji**.
 
-## Zadanie 1 - INF.04.2025.06.01
+## ZADANIE 1 - INF.04.2025.06.01
 
 Zadanie polega na wykonaniu dwóch aplikacji: konsolowej i desktopowej, a następnie przygotowaniu dokumentacji technicznej. Tematem zadania jest symulacja losowań liczb podobnych do gry liczbowej typu Lotto.
 
