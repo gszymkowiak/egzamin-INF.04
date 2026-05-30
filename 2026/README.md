@@ -81,7 +81,7 @@ Zadanie polega na wykonaniu dwóch aplikacji (konsolowej i mobilnej), przeprowad
 
 Należy stworzyć aplikację konsolową realizującą quiz z wykorzystaniem dziedziczenia i klas abstrakcyjnych.
 
-**Klasa** Pytanie
+**Klasa Pytanie**
 
 Klasa abstrakcyjna (nie można tworzyć jej obiektów), zawierająca:
 
@@ -105,7 +105,7 @@ Pola chronione:
 
 - przyjmuje odpowiedzi: A, B lub C
 
-**Klasa PytanieZamkniete** dziedziczy po klasie Pytanie.
+**Klasa PytanieZamkniete** dziedziczy po klasie **Pytanie**
 
 Pola prywatne:
 
