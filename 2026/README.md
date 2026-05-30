@@ -105,6 +105,87 @@ Pola chronione:
 
 - przyjmuje odpowiedzi: A, B lub C
 
+**Klasa PytanieZamkniete** dziedziczy po klasie Pytanie.
+
+Pola prywatne:
+
+- odpowiedź A
+- odpowiedź B
+- odpowiedź C
+- poprawna odpowiedź (A, B lub C)
+
+**Konstruktor** (6 argumentów):
+
+- treść pytania
+- nazwa pliku
+- odpowiedź A
+- odpowiedź B
+- odpowiedź C
+- poprawna odpowiedź
+
+**Metoda sprawdzająca odpowiedź**:
+
+- porównuje odpowiedź użytkownika z poprawną
+- ustawia pole logiczne poprawności
+- zwraca wynik (true/false)
+
+### Część 2 – aplikacja mobilna
+
+**Wymagania Git**
+
+Po utworzeniu projektu:
+git init
+git config --global user.name "numer_zdajacego"
+git config --global user.email egzamin@poczta.pl
+
+W trakcie pracy trzeba wykonać minimum 2 commity:
+
+- po wykonaniu widoku
+- po wykonaniu logiki aplikacji
+
+**Widok aplikacji**
+
+Elementy początkowe:
+
+- obraz zad1.jpg,
+- pytanie:
+  - Które to schronisko?
+- trzy odpowiedzi:
+  - Na Rysiance
+  - Na Wielkiej Raczy
+  - Na Wielkiej Rycerzowej
+- przycisk DALEJ
+
+**Wymagania wyglądu**
+
+- tło: #2E7CB8
+- biały kolor tekstu
+- pytanie większą czcionką
+- jednoczesny wybór tylko jednego RadioButtona
+- obraz, pytanie i przycisk wyśrodkowane
+- odpowiedzi wyrównane do lewej strony
+
+**Logika działania**
+
+Pytania należy przechowywać w kolekcji (lista/tablica). Po kliknięciu DALEJ:
+
+- jeśli odpowiedź jest poprawna → zwiększ liczbę punktów
+- wyświetl kolejne pytanie
+- gdy skończą się pytania → wróć do pierwszego
+- wyczyść zaznaczenie wszystkich odpowiedzi
+
+### Część 3 – testy i dokumentacja
+
+**Test 1 - klasa abstrakcyjna**
+- należy spróbować utworzyć obiekt klasy Pytanie. Powinien pojawić się błąd kompilacji (bo klasa jest abstrakcyjna). Wykonanie zrzutu ekranu błędu oraz zakomentowanie kodu.
+
+**Test 2 - sprawdzenie działania**
+
+- wczytać dane do konstruktora PytanieZamkniete
+- utworzyć obiekt
+- wczytać odpowiedź użytkownika
+- wyświetlić odpowiedź i zrobić zrzut ekranu
+
 ## Licencja
 
 Projekt udostępniony wyłącznie w celach edukacyjnych
