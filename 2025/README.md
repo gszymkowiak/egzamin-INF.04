@@ -7,6 +7,11 @@ Repozytorium zawiera rozwiązania zadań praktycznych przygotowujących do egzam
 - [Egzamin praktyczny](https://material.edu.tychy.pl/data/egzaminy/2025/czerwiec-zadanie-1/Egzamin-inf_04_2025_06_01_SG.pdf)
 - [Rozwiązanie](https://material.edu.tychy.pl/data/egzaminy/2025/czerwiec-zadanie-1/Realizacja-inf_04_2025_06_01_SG.zip)
 
+## Zadanie 2 - INF.04.2025.06.02
+
+- [Egzamin praktyczny](https://material.edu.tychy.pl/data/egzaminy/2025/czerwiec-zadanie-2/Egzamin-inf_04_2025_06_02_SG.pdf)
+- [Rozwiązanie](https://material.edu.tychy.pl/data/egzaminy/2025/czerwiec-zadanie-2/Realizacja-inf_04_2025_06_02_SG.zip)
+
 ## Licencja
 
 Projekt udostępniony wyłącznie w celach edukacyjnych.
