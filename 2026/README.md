@@ -150,13 +150,13 @@ W trakcie pracy trzeba wykonać minimum 2 commity:
 
 Elementy początkowe:
 
-- obraz zad1.jpg,
+- obraz **zad1.jpg**
 - pytanie: **Które to schronisko?**
 - trzy odpowiedzi:
   - Na Rysiance
   - Na Wielkiej Raczy
   - Na Wielkiej Rycerzowej
-- przycisk DALEJ
+- przycisk **DALEJ**
 
 **Wymagania wyglądu**
 
@@ -169,9 +169,9 @@ Elementy początkowe:
 
 **Logika działania**
 
-Pytania należy przechowywać w kolekcji (lista/tablica). Po kliknięciu DALEJ:
+Pytania należy przechowywać w kolekcji (lista/tablica). Po kliknięciu **DALEJ**:
 
-- jeśli odpowiedź jest poprawna → zwiększ liczbę punktów
+- jeśli odpowiedź jest poprawna, to zwiększ liczbę punktów
 - wyświetl kolejne pytanie
 - gdy skończą się pytania → wróć do pierwszego
 - wyczyść zaznaczenie wszystkich odpowiedzi
