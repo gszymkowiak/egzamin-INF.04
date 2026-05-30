@@ -17,10 +17,10 @@ Należało zaprogramować klasę Kosc, która reprezentuje pojedynczą kostkę d
 
 - statyczne pole przechowujące liczbę utworzonych obiektów klasy,
 - kolekcję nazw plików graficznych:
-- kosc0.png do kosc6.png
-- liczbę oczek wyrzuconą na kości
-- identyfikator odpowiadającego obrazka
-- informację logiczną określającą dostępność kości
+  - od kosc0.png do kosc6.png
+  - liczbę oczek wyrzuconą na kości
+  - identyfikator odpowiadającego obrazka
+  - informację logiczną określającą dostępność kości
 
 Wymagane były dwa konstruktory:
 
