@@ -134,9 +134,12 @@ Pola prywatne:
 **Wymagania Git**
 
 Po utworzeniu projektu:
+
+``` 
 git init
 git config --global user.name "numer_zdajacego"
 git config --global user.email egzamin@poczta.pl
+```
 
 W trakcie pracy trzeba wykonać minimum 2 commity:
 
