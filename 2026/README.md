@@ -16,7 +16,7 @@ Zadanie polegało na wykonaniu aplikacji konsolowej oraz aplikacji mobilnej zgod
 
 Należało zaprogramować klasę Kosc, która reprezentuje pojedynczą kostkę do gry. Klasa miała zawierać:
 
-- statyczne pole przechowujące liczbę utworzonych obiektów klasy,
+- statyczne pole przechowujące liczbę utworzonych obiektów klasy
 - kolekcję nazw plików graficznych:
   - od kosc0.png do kosc6.png
   - liczbę oczek wyrzuconą na kości
