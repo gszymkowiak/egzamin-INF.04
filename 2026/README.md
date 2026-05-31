@@ -73,6 +73,7 @@ Zadanie skupia się na stworzeniu projektu testów sprawdzających poprawność 
 
 Zadanie polega na wykonaniu dwóch aplikacji (konsolowej i mobilnej), przeprowadzeniu testów oraz przygotowaniu dokumentacji.
 
+- [Rozwiązanie egzaminu](https://material.edu.tychy.pl/data/egzaminy/2026/styczen-zadanie-2/Realizacja-inf_04_2026_01_02_SG.zip)
 - [Plik do zadania](https://material.edu.tychy.pl/data/egzaminy/2026/styczen-zadanie-2/zad2.7z)
 
 ---
