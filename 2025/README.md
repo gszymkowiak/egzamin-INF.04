@@ -13,7 +13,7 @@ Stos technologiczny:
 
 - Nazwa systemu operacyjnego: Windows 11
 - Nazwa środowiska programistycznego: Visual Studio 2022
-- Nazwy języków programowania: C++, C#, WPF
+- Nazwy języków programowania: C++, C# WPF
 
 ---
 
