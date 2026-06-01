@@ -12,8 +12,8 @@ Zadanie polega na wykonaniu **aplikacji konsolowej** (klasa Kosc, która repreze
 
 Stos technologiczny:
 
-- Nazwa środowiska programistycznego: Visual Studio 2022, Android Studio
-- Nazwa emulatora dla aplikacji mobilnej: Android Studio Panda 4 | 2025.3.4 Patch 1
+- Nazwa systemu operacyjnego: Windows 11
+- Nazwa środowiska programistycznego: Visual Studio 2022, Android Studio Panda 4 | 2025.3.4 Patch 1
 - Nazwy języków programowania: C++, Java
 
 ---
