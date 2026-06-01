@@ -9,6 +9,12 @@ Zadanie polega na wykonaniu dwóch aplikacji: konsolowej i desktopowej, a nastę
 
 - [Rozwiązanie egzaminu](https://material.edu.tychy.pl/data/egzaminy/2025/czerwiec-zadanie-1/Realizacja-inf_04_2025_06_01_SG.zip)
 
+Stos technologiczny:
+
+- Nazwa systemu operacyjnego: Windows 11
+- Nazwa środowiska programistycznego: Visual Studio 2022
+- Nazwy języków programowania: C++, C#, WPF
+
 ---
 
 ### Część 1 – aplikacja konsolowa
