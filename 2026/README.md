@@ -4,7 +4,7 @@ Repozytorium zawiera rozwiązania zadań praktycznych egzaminu zawodowego **INF.
 
 Stos technologiczny:
 
-- Nazwa środowiska programistycznego: Visual Studio 2022
+- Nazwa środowiska programistycznego: Visual Studio 2022, Android Studio
 - Nazwa emulatora dla aplikacji mobilnej: Android Studio Panda 4 | 2025.3.4 Patch 1
 - Nazwy języków programowania: C++, Java
 
