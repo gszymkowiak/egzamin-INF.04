@@ -2,12 +2,6 @@
 
 Repozytorium zawiera rozwiązania zadań praktycznych egzaminu zawodowego **INF.04 – Projektowanie, programowanie i testowanie aplikacji**.
 
-Stos technologiczny:
-
-- Nazwa środowiska programistycznego: Visual Studio 2022, Android Studio
-- Nazwa emulatora dla aplikacji mobilnej: Android Studio Panda 4 | 2025.3.4 Patch 1
-- Nazwy języków programowania: C++, Java
-
 ---
 ## ZADANIE 1 - INF.04.2026.01.01
 
@@ -15,6 +9,12 @@ Zadanie polega na wykonaniu **aplikacji konsolowej** (klasa Kosc, która repreze
 
 - [Rozwiązanie egzaminu](https://material.edu.tychy.pl/data/egzaminy/2026/styczen-zadanie-1/Realizacja-inf_04_2026_01_01_SG.zip)
 - [Plik do zadania](https://material.edu.tychy.pl/data/egzaminy/2026/styczen-zadanie-1/zad1.7z)
+
+Stos technologiczny:
+
+- Nazwa środowiska programistycznego: Visual Studio 2022, Android Studio
+- Nazwa emulatora dla aplikacji mobilnej: Android Studio Panda 4 | 2025.3.4 Patch 1
+- Nazwy języków programowania: C++, Java
 
 ---
 
