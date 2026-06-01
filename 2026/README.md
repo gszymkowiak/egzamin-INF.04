@@ -2,6 +2,12 @@
 
 Repozytorium zawiera rozwiązania zadań praktycznych egzaminu zawodowego **INF.04 – Projektowanie, programowanie i testowanie aplikacji**.
 
+Stos technologiczny:
+
+- Nazwa środowiska programistycznego: Visual Studio 2022
+- Nazwa emulatora dla aplikacji mobilnej: Android Studio Panda 4 | 2025.3.4 Patch 1
+- Nazwy języków programowania: C++, Java
+
 ---
 ## ZADANIE 1 - INF.04.2026.01.01
 
